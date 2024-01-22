@@ -1,0 +1,4 @@
+Hey all !!
+Here we are learning file operations in python !!
+# Thank you !!
+Byee Byee !!
