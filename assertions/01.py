@@ -58,3 +58,7 @@ assert SquareIt(4)==16,"The square of 4 should be 16"
 print(SquareIt(2))
 print(SquareIt(3))
 print(SquareIt(4))
+# output:
+# 4
+# 9
+# 16
